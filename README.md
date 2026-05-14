@@ -14,7 +14,7 @@
 
   [https://ai.chatgptzh.com.cn/](https://ai.chatgptzh.com.cn/i/github)
 
-教程 [https://github.com/annoycl/recharge-chatgpt-plus](https://github.com/annoycl/recharge-chatgpt-plus)
+教程 [https://github.com/imarvinle/chatgpt-plus-tutorial](https://github.com/imarvinle/chatgpt-plus-tutorial)
 
   
 
